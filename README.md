@@ -1,4 +1,4 @@
-<h2 align="center"> Application of the finite element method to determine the two-dimensional potential (xy plane) at any point in the region 0 ≤ x ≤ a, 0 ≤ y ≤ b of the figure below: </h2>
+<h3 align="center"> Application of the finite element method to determine the two-dimensional potential (xy plane) at any point in the region 0 ≤ x ≤ a, 0 ≤ y ≤ b of the figure below: </h3>
 
 <p align="center"><img src="https://github.com/caiorochac/FEM-2D/assets/103794150/4618fd35-a131-497f-8300-e8ab29603aa7"/></p>
 
